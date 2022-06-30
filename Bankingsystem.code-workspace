@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\jobportal"
+		},
+		{
+			"path": "..\\inventory"
+		},
+		{
+			"path": "..\\img"
+		},
+		{
+			"path": "..\\HtmlCssBasic"
+		},
+		{
+			"path": "..\\ExpnceTracker"
+		},
+		{
+			"path": "..\\dashboard"
+		},
+		{
+			"path": "..\\Daily Expense Tracker Project"
+		}
+	]
+}
